@@ -1,0 +1,23 @@
+.cell {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.row {
+  display: flex;
+}
+
+.whith_gobline{
+  background-image: url(2dbd01ce16c0fa83cb67.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.table{
+  cursor: url(c811549257c49b19df1b.png), pointer;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
